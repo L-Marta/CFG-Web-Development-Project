@@ -1,10 +1,11 @@
 
 body, html {
   height: 100%;
+  margin: 0;
 }
 /* Budapest Parliament (https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/budapest-danubio-parlamento-1552491234.jpg)*/
 .hero-image {
-background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("budapest-danubio-parlamento-discover.jpg");
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('img/landingpage.jpg');
 height: 100%;
 background-position: center;
 background-repeat: no-repeat;
