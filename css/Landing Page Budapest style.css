@@ -49,13 +49,13 @@ margin-bottom: 130%;
 }
 /* Navbar links */
 .topnav a {
-color: rgb(250, 241, 230);
+color:#FAF1E6;
 padding: 16px;
 text-decoration: none;
 font-size: 20px;
 }
 .topnav a:hover {
-background-color: #ddd;
-color: black;
+background-color: #FAF1E6;
+color:  #064420;
 border-radius: 9px;
 }
